@@ -18,8 +18,8 @@ I am a student who loves building projects and learning new technologies. My hob
 
 ### 📈 GitHub Stats
 
-![Shrishail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShrishailPatil&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrishailPatil&layout=compact&theme=radical)
+![Shrishail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrishail-Patil&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrishail-Patil&layout=compact&theme=radical)
 
 ---
 
