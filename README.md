@@ -16,24 +16,10 @@ I am a student who loves building projects and learning new technologies. My hob
 
 ---
 
-### 📚 Projects
-
-- **[BlogIt](link)**
-  - **User-Friendly Blogging**: BlogIt, built on the MERN stack, allows users to create accounts, log in, and post blogs, offering an intuitive platform for sharing ideas.
-  - **Secure Data Management**: The app uses MongoDB Atlas for secure data storage and features password hashing and token authentication for user protection.
-  - **Deployment**: BlogIt is deployed on Render and Netlify, ensuring a responsive and accessible experience across devices.
-
-- **[Expedia Flight Booking Automation](link)**
-  - **Web Automation**: Developed a basic Selenium script for automating web interactions with the Expedia website.
-  - **Efficiency**: Gained hands-on experience with web automation and debugging techniques, enhancing testing efficiency.
-  - **Logging & Documentation**: Implemented logging and screenshot capture to track and document key steps in the automation process.
-
----
-
 ### 📈 GitHub Stats
 
-![Shrishail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrishail-Patil&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrishail-Patil&layout=compact&theme=radical)
+![Shrishail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShrishailPatil&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrishailPatil&layout=compact&theme=radical)
 
 ---
 
@@ -51,11 +37,9 @@ I am a student who loves building projects and learning new technologies. My hob
 
 ---
 
-### 🎨 A Little More About Me
+### 🌟 Inspirational Quote
 
-- 💪 I love staying fit and active.
-- 🎬 A movie buff who enjoys good storytelling.
-- 🤝 I believe in the power of teamwork and cherish my relationships.
+_"Be the best version of yourself."_
 
 ---
 
