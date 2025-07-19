@@ -8,11 +8,11 @@ I am a student who loves building projects and learning new technologies. My hob
 
 ### 🚀 Skills & Technologies
 
-- **Languages**: Python, Java, JavaScript
-- **Frontend**: React.js, HTML, CSS
+- **Languages**: Python, Java, JavaScript, Typescript 
+- **Frontend**: React.js, Next.js, HTML, CSS
 - **Backend**: MERN Stack (MongoDB, Express, React, Node.js)
-- **Database**: MongoDB
-- **Design**: Figma (UI/UX)
+- **Database**: MongoDB, Supabase
+- **Design**: Figma (UI/UX), Framer
 
 ---
 
